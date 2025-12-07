@@ -29,11 +29,11 @@ filing_flags = st.multiselect(
 # Generate Explanation
 if st.button("Generate Risk Explanation"):
     explanation = generate_risk_explanation(
-        structured_data,
-        risk_level,
-        additional_text,
-        st.secrets["openai_api_key"]
-    )
+    structured_data,
+    risk_level,
+    additional_text,
+    api_key = st.secrets["general"]["openai_api_key"]
+)
     st.markdown("### 🧾 Risk Explanation:")
     st.write(explanation)
 
@@ -46,3 +46,4 @@ if alerts:
         st.warning(alert)
 else:
     st.info("No alerts detected.")
+
