@@ -19,7 +19,8 @@ def generate_risk_explanation(structured_data, risk_level, additional_text, api_
         ]
     )
 
-    return response.choices[0].message["content"]
+    # FIXED LINE:
+    return response.choices[0].message.content
 
 
 def check_alerts(risk_score, sentiment, flags):
