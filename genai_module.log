@@ -1,0 +1,13 @@
+2025-12-07 14:37:25,432 - Alerts generated: ['\u26a0\ufe0f Risk level is HIGH.', '\u26a0\ufe0f Negative news sentiment detected.', '\u26a0\ufe0f Critical filing flag present.']
+2025-12-07 14:37:30,231 - Alerts generated: ['\u26a0\ufe0f Risk level is HIGH.', '\u26a0\ufe0f Negative news sentiment detected.', '\u26a0\ufe0f Critical filing flag present.']
+2025-12-07 14:50:35,142 - Alerts generated: ['\u26a0\ufe0f Risk level is HIGH.', '\u26a0\ufe0f Negative news sentiment detected.', '\u26a0\ufe0f Critical filing flag present.']
+2025-12-07 14:59:36,456 - Alerts generated: ['\u26a0\ufe0f Risk level is HIGH.', '\u26a0\ufe0f Negative news sentiment detected.', '\u26a0\ufe0f Critical filing flag present.']
+2025-12-07 15:01:50,437 - Alerts generated: ['\u26a0\ufe0f Risk level is HIGH.', '\u26a0\ufe0f Negative news sentiment detected.', '\u26a0\ufe0f Critical filing flag present.']
+2025-12-07 15:01:55,627 - Alerts generated: ['\u26a0\ufe0f Risk level is HIGH.', '\u26a0\ufe0f Negative news sentiment detected.', '\u26a0\ufe0f Critical filing flag present.']
+2025-12-07 15:02:08,844 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-07 15:03:02,369 - Alerts generated: ['\u26a0\ufe0f Risk level is HIGH.', '\u26a0\ufe0f Negative news sentiment detected.', '\u26a0\ufe0f Critical filing flag present.']
+2025-12-07 15:03:16,261 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-07 15:04:15,230 - Alerts generated: ['\u26a0\ufe0f Risk level is HIGH.', '\u26a0\ufe0f Negative news sentiment detected.', '\u26a0\ufe0f Critical filing flag present.']
+2025-12-07 15:04:29,549 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-07 15:04:29,561 - Risk explanation generated for risk level: HIGH
+2025-12-07 15:04:29,561 - Alerts generated: ['\u26a0\ufe0f Risk level is HIGH.', '\u26a0\ufe0f Negative news sentiment detected.', '\u26a0\ufe0f Critical filing flag present.']
